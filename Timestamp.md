@@ -7,3 +7,6 @@ Timestamp
 | 4:18 | 4:52 | 34min | 101min | Breakable Blocks, Paddle Collision Regressing? |
 | 6:05 | 6:28 | 23min | 124min | Paddle Collision actually fixed |
 | 6:52 | 7:37 | 45min | 169min | MVP. Huzzah! |
+| 7:37 | 7:48 | 11min | 180 min | Refactored for loops to be less crazy |
+
+Overtime!
